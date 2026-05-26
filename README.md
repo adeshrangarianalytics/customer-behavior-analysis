@@ -103,19 +103,7 @@ Discounts positively influenced customer purchases
 Younger customers purchased more frequently
 Customer behavior varied across gender and categories
 Digital payment methods were commonly preferred
-▶️ How to Run the Project
-Step 1: Clone Repository
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-Step 2: Install Required Libraries
-pip install pandas numpy matplotlib seaborn
-Step 3: Run Jupyter Notebook
-jupyter notebook
-Step 4: Run SQL Queries
-Import dataset into PostgreSQL/MySQL/SQL Server
-Execute queries from SQL script file
-Step 5: Open Power BI Dashboard
-Open .pbix file using Power BI Desktop
-Refresh data if required
+
 📁 Project Structure
 Customer-Shopping-Behavior-Analysis/
 │
